@@ -1,13 +1,5 @@
 flowchart TD
-    %% Styling and Color-Coding
-    classDef userLayer fill:#fce4ec,stroke:#c2185b,stroke-width:2px,color:#000
-    classDef presentationLayer fill:#e1f5fe,stroke:#0288d1,stroke-width:2px,color:#000
-    classDef gatewayLayer fill:#fff3e0,stroke:#f57c00,stroke-width:2px,color:#000
-    classDef microservicesLayer fill:#e8f5e9,stroke:#388e3c,stroke-width:2px,color:#000
-    classDef integrationLayer fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#000
-    classDef dataLayer fill:#ffebee,stroke:#d32f2f,stroke-width:2px,color:#000
-    classDef infraLayer fill:#eceff1,stroke:#455a64,stroke-width:2px,stroke-dasharray: 5 5,color:#000
-    classDef externalLayer fill:#fffde7,stroke:#fbc02d,stroke-width:2px,color:#000
+
 
     %% 1. Users Layer
     subgraph Users [👨‍🎓 1. Users]
