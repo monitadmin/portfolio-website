@@ -55,6 +55,6 @@ graph TD
     class DB,CACHE,CDN gold
     class EXTERNAL red
     class INFRA purple
-Much cleaner — 7 layers, one node each (except the microservices detail which is the core of the architecture), with simple directional flows between them. Paste into mermaid.live to render and export. Want me to insert the rendered image back into the document?
+
 
 
